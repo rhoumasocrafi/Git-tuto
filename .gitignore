@@ -1,1 +1,4 @@
-q
+git init :Créer un nouveau dépôt
+git clone [lien de depôt] :Cloner un dépôt existant
+git status :liste des fichier modifiés récemment
+git diff
